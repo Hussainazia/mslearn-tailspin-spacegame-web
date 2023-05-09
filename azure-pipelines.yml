@@ -1,5 +1,5 @@
 trigger:
-- '*'
+- 'models-package'
 
 pool:
   vmImage: 'ubuntu-20.04'
